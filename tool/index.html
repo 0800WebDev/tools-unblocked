@@ -6,6 +6,23 @@
     body {
       text-align: center;
     }
+    .container {
+    display: flex;
+    height: 100vh; /* full height of viewport */
+    margin: 0;
+    padding: 0;
+  }
+
+  #code, #preview {
+    flex: 1; /* make both take equal width */
+    height: 100%; /* full height of container */
+    border: 1px solid #ccc;
+    box-sizing: border-box; /* include border in size */
+  }
+
+  #code {
+    resize: none; /* optional: prevent manual resizing */
+  }
   </style>
 </head>
   <body>
@@ -13,7 +30,7 @@
   <h1> Tools Unblocked </h1>
    </div>
   <hr>
-  <div>
+  <div class="container">
   <textarea id="code"></textarea>
 <iframe id="preview"></iframe>
   </div>

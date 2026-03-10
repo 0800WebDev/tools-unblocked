@@ -19,18 +19,6 @@
   </div>
   <hr>
   <b>made by 0800</b>
-    <script>
-      const examples = {
-htmleditor: `<h1>Hello world</h1><button>Click me</button>`,
-example2: `<div style="color:red">Example 2</div>`
-};
-
-const example = window.location.search.slice(1);
-
-if (examples[example]) {
-document.getElementById("code").value = examples[example];
-document.getElementById("preview").srcdoc = examples[example];
-  }
-    </script>
+    <script src="tool/html.js"></script>
   </body>
 </html>

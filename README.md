@@ -6,7 +6,12 @@ Official Link
 [tools-ub.onrender.com](https://tools-ub.onrender.com)
 
 ### Tools
-
+- HTML editor
+- Orange Unlock proxy
+- Radio
+- Spin The Wheel
+- Text Editor
+- about:blank HTML cloaker
 ### How to Use
 1. go to the official url
 2. choose from a tool in the list

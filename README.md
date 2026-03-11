@@ -1,7 +1,7 @@
 # Tools Unblocked
 
 ### Description
-**Tools unblocked** is a collection of **tools tools**s devs and students can use for their own website or as a local file.
+**Tools unblocked** is a collection of **tools** that devs and students can use for their own website or as a local file.
 Official Link
 [pgis.onrender.com](https://pgis.onrender.com)
 

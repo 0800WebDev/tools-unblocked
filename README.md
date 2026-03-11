@@ -5,10 +5,7 @@
 Official Link
 [pgis.onrender.com](https://pgis.onrender.com)
 
-### Features
-- A cloak option to hide the tab
-- An open-in-`about:blank` option to hide the page
-- Contact button to get in touch with the Howsresres
+### Tools
 
 ### How to Use
 

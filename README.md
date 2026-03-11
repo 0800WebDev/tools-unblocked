@@ -8,19 +8,7 @@ Official Link
 ### Features
 - A cloak option to hide the tab
 - An open-in-`about:blank` option to hide the page
-- Contact button to get in touch with the owner
-
-### Apps / Tools
-PGIS has a selection of tools including:
-- Orange Unlock
-- 8os
-- Live Chat
-- YouTube Shorts
-- EmulatorJS
-- AI
-- Live HTML Editor
-- The wagon site (iframe)
-- Soundboard
+- Contact button to get in touch with the Howsresres
 
 ### How to Use
 
